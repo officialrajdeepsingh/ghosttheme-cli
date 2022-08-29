@@ -1,0 +1,20 @@
+{
+  "name": "ghosttheme-cli",
+  "version": "1.0.0",
+  "description": "ghosttheme-cli help to create a basis boilerplate code for ghost theme",
+  "main": "cli.js",
+  "type": "module",
+  "keywords": [
+    "ghost",
+    "ghosttheme",
+    "ghosttheme-cli"
+  ],
+  "bin": {
+    "ghost-theme": "cli.js"
+  },
+  "author": "Rajdeep singh officialrajdeepsingh@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
