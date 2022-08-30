@@ -22,6 +22,10 @@ To start working with tailwindcss, you must run a separate server with postcss a
 #### How many arguments are supported by ghost theme-cli?
 Ghost theme-cli currently supports only two arguments. the first argument is the project name, and the second argument is the package manager (npm, yarn and pnpm).
 
+1. ghost-theme
+2. ghost-theme version or ghost-theme --version
+
+## ghost-theme
 ```javascript 
 ghost-theme name-the-project  // install all dependencies by default with yarn
 
@@ -30,6 +34,18 @@ or
 ghost-theme name-the-project pnpm // install all dependencies with pnpm
 
 ```
+
 ### note 
 `ghost-theme my-project` use by default yarn. 
 
+---
+
+## ghost-theme version or ghost-theme --version
+```javascript
+ghost-theme version
+   or 
+ghost-theme --version
+```
+
+## report bugs 
+You face any bug feel free to [Submit us](https://www.google.com)

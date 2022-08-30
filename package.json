@@ -1,11 +1,15 @@
 {
   "name": "ghosttheme-cli",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "ghosttheme-cli help to create a basis boilerplate code for ghost theme",
   "main": "cli.js",
   "type": "module",
   "keywords": [
     "ghost",
+    "ghostcms",
+    "ghost-theme-cli",
+    "ghosttheme blog",
+    "ghosttheme-blog",
     "ghosttheme",
     "ghosttheme-cli"
   ],
